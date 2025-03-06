@@ -71,18 +71,18 @@ print('Root Mean Squared Error:',rmse)
 
 ## Output:
 ### Data :
-![Data](data.png)
+![Data](output/data.png)
 
 ### X and y values:
-![Xvalue](Xvalue.png)
-![yvalue](yvalue.png)
+![Xvalue](output/Xvalue.png)
+![yvalue](output/yvalue.png)
 
 ### Plot:
-![alt text](PLOT1.png)
-![alt text](plot2.png)
+![alt text](output/PLOT1.png)
+![alt text](output/plot2.png)
 
 ### ERROR METHOD:
-![alt text](error.png)
+![alt text](output/error.png)
 
 
 ## Result:
